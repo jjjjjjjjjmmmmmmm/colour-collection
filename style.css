@@ -12,9 +12,8 @@ body, html {
 h1 {
   font-size: 36px;
   text-align: center;
-  margin-top: 20px; /* Adds some space from the top */
+  margin-top: 5px; /* Add space from the top */
 }
-
 
 #collage {
   display: flex;
@@ -23,5 +22,6 @@ h1 {
   padding-left: 25px; /* Space from the left */
   width: 100%;
 }
+
 
 
