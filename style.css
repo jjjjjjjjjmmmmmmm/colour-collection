@@ -22,7 +22,7 @@ h1 {
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-start; /* Align items to the left */
-  padding-left: 50px; /* Adjust to create space on the left */
+  padding-left: 25px; /* Adjust to create space on the left */
   width: 100%;
 }
 
