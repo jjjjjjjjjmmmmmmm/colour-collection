@@ -19,5 +19,7 @@ h1 {
   margin-bottom: 20px; /* Adjust as needed */
 }
 .container {
-  margin-left: 50px; /* Adjust this value as needed */
+  padding-left: 50px; /* Adds space from the left */
+  width: 100%; /* Ensure it takes full width */
 }
+
